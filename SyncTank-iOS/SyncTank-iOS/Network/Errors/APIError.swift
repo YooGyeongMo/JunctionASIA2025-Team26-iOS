@@ -7,11 +7,10 @@
 
 enum APIError: Error {
     case invalidResponse
-    case httpError(statusCode: Int)
     case validation(String)
-    
-    case decoding(String)
-    case clientError(statusCode: Int)
-    case serverError(statusCode: Int)
-    case network(String)
+    case encoding
+    case decoding
+    case networkError
+    case serverError(String)
+    case unknown
 }
