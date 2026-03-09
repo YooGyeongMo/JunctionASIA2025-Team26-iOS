@@ -1,12 +1,13 @@
 <div align="center">
 
-# 🏆 Junction Asia 2025 Upstage Track Winner & Final Winner
+# 🏆 Junction Asia 2025 Track Winner & Final Winner
 
 ## Upstage Track Winner & **Final Winner**
 
 ### TEAM NAME : `Team26`
 
-### PRIZE : `Upstage Track Winner 2,000,000`, `Final Winner 3,000,000`
+### Track Winner PRIZE :  `₩ 2,000,000`
+### Final Winne PRIZE : `₩ 3,000,000`
 
 </div>
 
