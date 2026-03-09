@@ -4,6 +4,8 @@
 
 ## Upstage Track Winner & **Final Winner**
 
+![M4_07604](https://github.com/user-attachments/assets/2c5f5e41-a20c-4520-8c25-a8d8c0747ddc)
+
 ### TEAM NAME : `GO!`
 ### App Name : `SyncTank`
 <img width="600" height="600" alt="MainPage" src="https://github.com/user-attachments/assets/205b85a4-b513-4d18-8f92-f8a393631a4d" />
